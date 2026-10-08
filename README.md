@@ -6,8 +6,6 @@ MCA Student | Full Stack Web Developer | Frontend & Backend | React • Next.js 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/_nihaal_t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nihaal_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-t-8863b3293) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@_nihaal_t) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/_nihaal_t) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30917078) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_nihaal_t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nihal.chiyoor@gmail.com) 
 
-# 🐍 Contribution Snake Game:
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output/github-contribution-grid-snake.svg">
@@ -20,8 +18,6 @@ MCA Student | Full Stack Web Developer | Frontend & Backend | React • Next.js 
 # 📊 GitHub Stats:
 
 ![](https://github-stats-extended.vercel.app/api/top-langs/?username=MrNihalT&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
-
-# 👾 Contribution Pac-Man Game:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output-pacman/pacman-contribution-graph-dark.svg">
