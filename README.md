@@ -1,8 +1,6 @@
 # 💫 About Me:
 MCA Student | Full Stack Web Developer | Frontend & Backend | React • Next.js • Django • FastAPI | Performance Optimization | Turning ideas into clean, scalable and functional web apps.
 
-<a href="https://nihalt.in"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=700&lines=MCA+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+fast%2C+scalable+web+apps+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing animation" /></a>
-
 🌍 Portfolio: [nihalt.in](https://nihalt.in)
 
 ## 🌐 Socials:
@@ -18,14 +16,12 @@ MCA Student | Full Stack Web Developer | Frontend & Backend | React • Next.js 
 # 🐍 Contribution Snake Game:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNihalT/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNihalT/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/MrNihalT/MrNihalT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/MrNihalT/MrNIhalT/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=100&section=footer" alt="Footer" width="100%" />
 
 ![](https://komarev.com/ghpvc/?username=MrNihalT&color=0e75b6&style=flat)
 
